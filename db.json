@@ -1,0 +1,105 @@
+
+{
+    "students" : [
+        {
+            "id"  : 1,
+            "name" : "Sadek",
+            "location" : "Mirpur",
+            "classname" : "Ten",
+            "roll" : 1,
+            "bn" : 80,
+            "en" : 50,
+            "math" : 70,
+            "phy" : 60,
+            "chem": 56,
+            "bio" : 77 
+        },
+        {
+            "id"  : 2,
+            "name" : "Sadman Ali",
+            "location" : "Mirpur",
+            "classname" : "Ten",
+            "roll" : 2,
+            "bn" : 80,
+            "en" : 50,
+            "math" : 90,
+            "phy" : 60,
+            "chem": 46,
+            "bio" : 77 
+        },
+        {
+            "id"  : 3,
+            "name" : "Arman Ahmed",
+            "location" : "Uttora",
+            "classname" : "Ten",
+            "roll" : 3,
+            "bn" : 40,
+            "en" : 50,
+            "math" : 70,
+            "phy" : 60,
+            "chem": 56,
+            "bio" : 87 
+        },
+        {
+            "id"  : 4,
+            "name" : "Naim Ali",
+            "location" : "Mirpur",
+            "classname" : "Ten",
+            "roll" : 4,
+            "bn" : 80,
+            "en" : 40,
+            "math" : 70,
+            "phy" : 90,
+            "chem": 56,
+            "bio" : 87 
+        },
+        {
+            "id"  : 5,
+            "name" : "Asma Begum",
+            "location" : "Uttora",
+            "classname" : "Ten",
+            "roll" : 5,
+            "bn" : 90,
+            "en" : 50,
+            "math" : 70,
+            "phy" : 60,
+            "chem": 66,
+            "bio" : 57 
+        }
+
+
+    ],
+
+    "teachers" : [
+        {
+            "id" : 6,
+            "name" : "Siam Islam",
+            "location" : "Badda",
+            "skill" : "Wordpress Developer"
+        },
+        {
+            "id" : 7,
+            "name" : "Alam mia",
+            "location" : "Mirpur",
+            "skill"  : "Mern Stack"
+        },
+        {
+            "id" : 8,
+            "name" : "Shadad Islam",
+            "location" : "Uttora",
+            "skill"  : "IOS Developer"
+        },
+        {
+            "id" : 9,
+            "name" : "Asraf",
+            "location" : "Mirpur",
+            "skill"  : "Phython Developer"
+        },
+        {
+            "id" : 10,
+            "name" : "Mamun mia",
+            "location" : "Uttora",
+            "skill"  : "JS Developer"
+        }
+    ]
+}
